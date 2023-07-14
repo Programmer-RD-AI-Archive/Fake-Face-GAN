@@ -303,7 +303,7 @@ rsa==4.7.2
 ruamel-yaml-conda==0.15.100
 scikit-image==0.16.2
 scikit-learn==0.24.2
-scipy==1.6.2
+scipy==1.10.0
 seaborn==0.11.1
 secretstorage==3.3.1
 send2trash==1.5.0
